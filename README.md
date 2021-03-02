@@ -4,7 +4,7 @@
 
 * Lista
 	+ item 1
-	+ item 2 *itálico*
+	+ item 2 *itálico* aaaaa
 	+ item 3 **negrito**
 
 	<code>foreach()...</code>
